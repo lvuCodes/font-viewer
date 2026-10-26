@@ -35,3 +35,4 @@ macos-native
 # Downloaded third-party references stay local; only own notes are published
 references/*
 !references/*.md
+.ai-attribution/snapshots/.tmp/
