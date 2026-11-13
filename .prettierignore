@@ -9,3 +9,5 @@ test-results
 **/*.css
 public/data/
 references/
+AI-USAGE.md
+.ai-attribution

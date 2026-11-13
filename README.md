@@ -39,6 +39,10 @@ Preview text resolution per card: the typed preview text, else the sample for th
 
 `dev` is the default working branch; CI runs there on every push and pull request. `main` is deploy-only: a linear fast-forward from `dev` — gated on `verify` and the SE smoke suite being green — that triggers the Pages deploy.
 
+## AI Usage
+
+See [AI-USAGE.md](AI-USAGE.md).
+
 ## License
 
 GNU General Public License v3.0 or later — see [LICENSE](LICENSE). Copyright © 2026 lvuCodes. `@lvucodes/ui` is published under GPL-3.0-or-later, so this site is licensed GPL-3.0-or-later and makes its source available. The font files themselves are served by Google Fonts under their own (open) licenses; the catalog metadata snapshot derives from Google's public endpoints.
